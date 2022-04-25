@@ -8,7 +8,7 @@ https://thankful-moss-0fd016710.1.azurestaticapps.net/
 # Azure Services used in the project:
 1:Azure Static Web App Azure Static Web Apps allows you to build modern web applications that automatically publish to the web as your code changes.
 # Demo video of the app:
-
+  https://drive.google.com/file/d/1qpYCIm0EqlNVJxwqnfmmzBhR3hlDj1mk/view?usp=sharing
 # Screenshots captured of the app:
 https://github.com/Anshul37/The-BMI-Calculator/issues/1#issue-1214790560
 # Tools and Languages used in the project:
