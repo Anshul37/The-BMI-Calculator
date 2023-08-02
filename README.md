@@ -24,10 +24,10 @@ https://github.com/Anshul37/The-BMI-Calculator/issues/1#issue-1214790560
   3.Mild to moderate overweight -	23.0 – 27.4	(Moderate risk of developing heart disease, high blood pressure, stroke, diabetes mellitus)
   4.Very overweight to obese - ≥ 27.5	(High risk of developing heart disease, high blood pressure, stroke, diabetes mellitus. Metabolic Syndrome)
 # Tools and Languages used in the project:
-1.The hompe page is developed completely using html where all the content there is written using appropriate html elements.The video html element was also added in this   page
+1.The home page is developed completely using html where all the content there is written using appropriate html elements.The video html element was also added in this   page
 2.The CSS style properties are used to style up these html elements using appropriate class names and id names for almost all the html elements.
-  Some of the CSS properties that were involved with particular type of html elements are border properties,margin and padding properties,flex properties,text styling     and decoration properties and transformation as well as fadeout,fadein properties were used.
-3.Javascript is most extensively used for developing the game logic in this game where some js properties like query selectors,onclick attributes,class name               attributes,set timeout attributes are used in conjunction with js objects,functions,variables and loops.
+Some of the CSS properties that were involved with particular type of html elements are border properties,margin and padding properties,flex properties,text styling and decoration properties and transformation as well as fadeout,fadein properties were used.
+3.Javascript is most extensively used for developing the game logic in this game where some js properties like query selectors,onclick attributes,class name        attributes,set timeout attributes are used in conjunction with js objects,functions,variables and loops.
 # Conclusion:
   The above lines are brief description of this game project.Since this an open source public project anyone can suggest any changes or suggestions to improvise this       project.
   New suggestions and improvements to this game are always welcomed.
